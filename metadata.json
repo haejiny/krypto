@@ -1,0 +1,8 @@
+{
+  "name": "KRYPTO-GEN: Future of Digital Assets",
+  "description": "A high-end crypto-themed web experience featuring interactive 3D elements, storytelling grids, and AI-driven market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
